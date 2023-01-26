@@ -1,0 +1,30 @@
+{
+  "name": "hw-1-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisitsyna-anna/hw-1-node-js.git"
+  },
+  "author": "Anna Lisitsyna <anna.lisicina9309@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisitsyna-anna/hw-1-node-js/issues"
+  },
+  "homepage": "https://github.com/lisitsyna-anna/hw-1-node-js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^4.0.0",
+    "uniqid": "^5.4.0",
+    "yargs": "^17.6.2"
+  }
+}

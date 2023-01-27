@@ -23,8 +23,6 @@
   },
   "dependencies": {
     "commander": "^10.0.0",
-    "nanoid": "^4.0.0",
-    "uniqid": "^5.4.0",
-    "yargs": "^17.6.2"
+    "uniqid": "^5.4.0"
   }
 }
